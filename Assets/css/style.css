@@ -1,28 +1,36 @@
 
 #page {
-	background: #0000FF;
+	background: #E8DAEF;
 	margin: 15%;
-	border: 5px solid black;
+	border: 10px solid black;
 }
 
 html {
 	background: white;
-	font-family: candara; 
+	font-family: Monaco; 
 	font-size: 15px;
 }
 
-.entete {
- 	font-size: 200%;
+h1 {
+ 	font-size: 4em;	
+ }
+
+#h2 {
+	font-size: 3,5em;
+}
+
+#entete {
+ 	font-size: 150%;
  	text-align: center;
  }
 
-footer {
-	text-align: center;
-	font-size: 20px;
-	
+#aboutme {
+	margin-left: 15%;
+	margin-right: 15%;
 }
 
-#aboutme {
-	margin-left: 10%;
-	margin-right: 10%;
+footer {
+	text-align: center;
+	font-size: 15px;
+	
 }
